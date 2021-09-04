@@ -1,0 +1,2 @@
+# hardhat_proxyable_from_scratch
+hardhat_proxyable_from_scratch
