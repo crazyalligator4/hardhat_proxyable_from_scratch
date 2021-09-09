@@ -1,0 +1,27 @@
+{
+  "name": "hardhat_proxyable_from_scratch",
+  "version": "1.0.0",
+  "description": "hardhat_proxyable_from_scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyalligator4/hardhat_proxyable_from_scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazyalligator4/hardhat_proxyable_from_scratch/issues"
+  },
+  "homepage": "https://github.com/crazyalligator4/hardhat_proxyable_from_scratch#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.6",
+    "hardhat": "^2.6.3"
+  }
+}
